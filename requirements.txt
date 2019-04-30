@@ -1,0 +1,11 @@
+Django
+psycopg2
+djangorestframework
+django-filter
+djangorestframework-jwt
+django-cors-headers
+requests
+python-memcached
+django-cachalot
+oss2
+raven
